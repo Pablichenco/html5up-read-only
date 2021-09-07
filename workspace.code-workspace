@@ -1,0 +1,15 @@
+{
+	"folders": [
+		{
+			"name": "Portfolio",
+			"path": "../../Documents/Developer/VS_Code/Portfolio"
+		},
+		{
+			"name": "html5up-read-only",
+			"path": "."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "html5up-read-only"
+	}
+}
